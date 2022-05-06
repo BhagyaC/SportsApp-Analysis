@@ -8,16 +8,16 @@ This repository contains the replication package for the paper "A Large-Scale Em
 
 The replication package has been organised as follows, 
 1. Data Collection: This directory contain all the code snippet used for data collection and preprocessing in this paper
-   
+2. Topic Modelling: Applying Mallet LDA and analysing code base on the reviews extracted
+3. Analysis: Once topics are finalise we tried to analyse the data using sentiment to understand the factors the users are complaining about
+
+### Data Collection
+
    a. keyword_extraction.py: Generating sports related keywords from known information for iterative search in google playstore
    
    b. app_details_extraction.py: Collecting metadata from google playstore for populating dataset for every keyword generated
    
    c. reviews_extraction.py: For all extractes sports apps get the reviews associated with them
-2. Topic Modelling: Applying Mallet LDA and analysing code base on the reviews extracted
-3. Analysis: Once topics are finalise we tried to analyse the data using sentiment to understand the factors the users are complaining about
-
-### Data Collection
 
 ### Topic Modelling
 
