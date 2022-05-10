@@ -31,3 +31,5 @@ In this section we are adding some exporatory data analysis and the visuralisati
 ### Replicating Results
 
 In this section we will conclude which script and data will help you to replicate all the RQs we have addressed in the given study 
+
+1. RQ1: 
