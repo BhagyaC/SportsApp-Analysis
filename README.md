@@ -24,4 +24,10 @@ The replication package has been organised as follows,
 The given colab [Notebook](https://colab.research.google.com/drive/108V8KMsTeUH4knPBoCZ1dlWeLRUNSr16?usp=sharing) explains all the steps that we used for topic modelling on the reviews of the sports apps that we extracted and analysis that we did on the extracted topics and results
 ### Analysis
 
+In this section we are adding some exporatory data analysis and the visuralisation for the dataset that we used/created in this study.
 
+1. [Top rated US apps](https://datastudio.google.com/reporting/89dd54e3-f18d-438f-be62-651c7a572b6a): It compare and plots data from Appbrain and help us to conclude some hypothesis 
+2. [Generic EDA on labelled Data](https://datastudio.google.com/reporting/d40a3824-b681-4560-915f-c52d79676b52): It evaluates the sample set generated and manually labelled in more intricated way
+### Replicating Results
+
+In this section we will conclude which script and data will help you to replicate all the RQs we have addressed in the given study 
